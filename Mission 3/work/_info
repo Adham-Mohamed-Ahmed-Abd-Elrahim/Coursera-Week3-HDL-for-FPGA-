@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/Verilog/Course/Finished/Mission 2
+T_opt
+!s110 1617459135
+V<Ea1V^DMdE9EX;GHhk6o:3
+04 11 4 work Comparator2 fast 0
+=1-0068eb7c5103-606877bf-1ce-6820
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1617459218
+Vz<Bj2OzXG6GaO45R:WAWY3
+04 11 4 work AAC2M3P1_tb fast 0
+=1-0068eb7c5103-60687811-35e-56b8
+R1
+R2
+n@_opt1
+R3
+vAAC2M3P1_tb
+!s110 1617458847
+!i10b 1
+!s100 :]M:eFeN?I;]Wh=P]fMY11
+!s11b 06Nb4AES8`h];LV25UkWo0
+ImKfYJYFeS1>@j[DWzoz0D1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z5 dD:/Work Zone/Verilog/Course/Finished/Mission 3
+w1573394804
+8D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1_tb.vp
+FD:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1_tb.vp
+!i122 -1
+L0 61
+Z6 OL;L;2019.4;69
+r1
+!s85 0
+31
+!s108 1617458847.000000
+!s107 D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1_tb.vp|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@a@c2@m3@p1_tb
+vComparator2
+!s110 1617459129
+!i10b 1
+!s100 H5VDIieR6P08F]>6`UNbM0
+!s11b 4TRM0J?f3[JmOBTWO]<8A0
+I?`[VFhHRXJZVKOI;YRE1o1
+R4
+R5
+w1617459126
+8D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1.v
+FD:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1.v
+!i122 -1
+L0 38
+R6
+r1
+!s85 0
+31
+!s108 1617459129.000000
+!s107 D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Course/Assigments/M3P1/AAC2M3P1.v|
+!i113 0
+R7
+R2
+n@comparator2
